@@ -27,6 +27,7 @@ public class MainFrame extends Frame {
         btAdd.setBackground(new Color(96, 218, 97));
         lab.setBounds(180,200,50,50);
         lab.setBackground(new Color(255, 68, 19));
+        lab.setFont(new Font(null,Font.BOLD,50));
         btSub.setBounds(250,150,50,50);
         btSub.setBackground(new Color(135,255, 71));
 
